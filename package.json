@@ -1,0 +1,33 @@
+{
+    "name": "insomnia-plugin-global-params",
+    "version": "0.1.0",
+    "description": "Insomnia plugin to add query parameters to all requests",
+    "main": "main.js",
+    "insomnia": {
+        "name": "global-params",
+        "displayName": "Global Params",
+        "description": "Add query parameters to all requests",
+        "publisher": {
+            "name": "Gabriel Soldani"
+        },
+        "unlisted": true
+    },
+    "keywords": [
+        "insomnia",
+        "plugin",
+        "insomnia plugin",
+        "global",
+        "query",
+        "params"
+    ],
+    "author": "Gabriel Soldani",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gabrielsoldani/insomnia-plugin-global-params/issues"
+    },
+    "homepage": "https://github.com/gabrielsoldani/insomnia-plugin-global-params#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gabrielsoldani/insomnia-plugin-global-params.git"
+    }
+}
