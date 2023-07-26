@@ -28,5 +28,8 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/gabrielsoldani/insomnia-plugin-global-params.git"
-    }
+    },
+    "files": [
+        "main.js"
+    ]
 }
