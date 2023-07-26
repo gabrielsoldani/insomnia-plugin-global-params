@@ -9,8 +9,7 @@
         "description": "Add query parameters to all requests",
         "publisher": {
             "name": "Gabriel Soldani"
-        },
-        "unlisted": true
+        }
     },
     "keywords": [
         "insomnia",
