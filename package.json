@@ -27,6 +27,6 @@
     "homepage": "https://github.com/gabrielsoldani/insomnia-plugin-global-params#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gabrielsoldani/insomnia-plugin-global-params.git"
+        "url": "git+https://github.com/gabrielsoldani/insomnia-plugin-global-params.git"
     }
 }
